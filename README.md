@@ -7,3 +7,4 @@
 界面如下：
 
 ![image](https://github.com/githubcjx/qqMusicPlayer/blob/master/images/music.png)
+![image](https://github.com/githubcjx/qqMusicPlayer/blob/master/images/music_list.png)
