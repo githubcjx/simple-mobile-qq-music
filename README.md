@@ -5,4 +5,5 @@
 使用前需打开命令提示符至music文件夹中，npm install下载依赖，gulp运行。
 
 界面如下：
+
 ![image](https://github.com/githubcjx/qqMusicPlayer/blob/master/images/music.png)
