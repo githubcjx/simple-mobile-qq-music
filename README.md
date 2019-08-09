@@ -3,9 +3,9 @@
 功能：播放与暂停、上一首与下一首、音乐列表、图片旋转、进度条拖拽。
 
 ```npm
-1. npm install
+npm install
 
-2. gulp
+gulp
 ```
 
 界面如下：
